@@ -1,8 +1,8 @@
 To run app
 
-# Databse Used: PostgreSQL(download and open PG Admin)
-
+#database used: PostgreSQL
 #to run django application
+#change password and username for your postgresql user in setting.py
 
 python manage.py makemigrations
 
