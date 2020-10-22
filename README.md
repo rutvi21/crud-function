@@ -1,3 +1,4 @@
+To run app
 
 # Databse Used: PostgreSQL(download and open PG Admin)
 
